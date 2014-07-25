@@ -1,9 +1,10 @@
 # PIXDate
-
-[![CI Status](http://img.shields.io/travis/dolphin su/PIXDate.svg?style=flat)](https://travis-ci.org/dolphin su/PIXDate)
-[![Version](https://img.shields.io/cocoapods/v/PIXDate.svg?style=flat)](http://cocoadocs.org/docsets/PIXDate)
-[![License](https://img.shields.io/cocoapods/l/PIXDate.svg?style=flat)](http://cocoadocs.org/docsets/PIXDate)
-[![Platform](https://img.shields.io/cocoapods/p/PIXDate.svg?style=flat)](http://cocoadocs.org/docsets/PIXDate)
+https://travis-ci.org/dolphinSuPixnet/PIXDate.svg?branch=master
+[![Build Status](https://travis-ci.org/dolphinSuPixnet/PIXDate.svg?branch=master)](https://travis-ci.org/dolphinSuPixnet/PIXDate)
+#[![CI Status](http://img.shields.io/travis/dolphin su/PIXDate.svg?style=flat)](https://travis-ci.org/dolphin su/PIXDate)
+#[![Version](https://img.shields.io/cocoapods/v/PIXDate.svg?style=flat)](http://cocoadocs.org/docsets/PIXDate)
+#[![License](https://img.shields.io/cocoapods/l/PIXDate.svg?style=flat)](http://cocoadocs.org/docsets/PIXDate)
+#[![Platform](https://img.shields.io/cocoapods/p/PIXDate.svg?style=flat)](http://cocoadocs.org/docsets/PIXDate)
 
 ## Usage
 
