@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PIXDate
 
 [![CI Status](http://img.shields.io/travis/dolphin su/PIXDate.svg?style=flat)](https://travis-ci.org/dolphin su/PIXDate)
@@ -26,3 +27,9 @@ dolphin su, dolphinsu@pixnet.tw
 
 PIXDate is available under the MIT license. See the LICENSE file for more info.
 
+=======
+PIXDate
+=======
+
+Date related libraries
+>>>>>>> 681f1a69d98cd57573935e0f77265bab754f6ec2
