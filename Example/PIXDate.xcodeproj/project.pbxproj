@@ -59,15 +59,15 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		61033D79A3564B769B1A9097 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		61033D79A3564B769B1A9097 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6354400FBF534BB594A1A07D /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E987871474A4F12BC4B145E /* Pods-Tests.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests.xcconfig"; path = "Pods/Pods-Tests.xcconfig"; sourceTree = "<group>"; };
 		82FAA3C83606478635BBCFE4 /* NSDate+PIXCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDate+PIXCategory.m"; path = "../../Pod/Classes/NSDate+PIXCategory.m"; sourceTree = "<group>"; };
 		82FAAC5AEFE263190A236EAA /* NSDate+PIXCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSDate+PIXCategory.h"; path = "../../Pod/Classes/NSDate+PIXCategory.h"; sourceTree = "<group>"; };
-		998E939050D84CDFB320A5F5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		998E939050D84CDFB320A5F5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		A61111392BC6402D97E5EF05 /* Pods-PIXDate.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PIXDate.xcconfig"; path = "Pods/Pods-PIXDate.xcconfig"; sourceTree = "<group>"; };
 		B148809125EB478B86B721E5 /* libPods-PIXDate.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-PIXDate.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D227C7C686F34D68A1D0C4DC /* PIXDate.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PIXDate.podspec; path = ../PIXDate.podspec; sourceTree = "<group>"; };
+		D227C7C686F34D68A1D0C4DC /* PIXDate.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PIXDate.podspec; path = ../PIXDate.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -256,12 +256,10 @@
 			mainGroup = 6003F581195388D10070C39A;
 			productRefGroup = 6003F58B195388D20070C39A /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-			);
 			projectRoot = "";
 			targets = (
-				6003F589195388D20070C39A /* PIXDate */,
 				6003F5AD195388D20070C39A /* Tests */,
+				6003F589195388D20070C39A /* PIXDate */,
 			);
 		};
 /* End PBXProject section */
